@@ -212,6 +212,11 @@
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-fake-tls-auto-alt3.json"
     },
     {
+      "id": "strategy-fake-tls-auto-alt3-roblox",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-fake-tls-auto-alt3-roblox.json"
+    },
+    {
       "id": "strategy-fix-v1",
       "type": "nfqws",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-fix-v1.json"
